@@ -1,1 +1,1 @@
-print('salem')
+print('salem alem')

@@ -1,4 +1,2 @@
-from cgi import print_form
-
-
-print('abay')
+a = 'Salem'
+b = 'Alem'

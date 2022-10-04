@@ -2,3 +2,6 @@
 2 ronaldo
 3 neymar
 4 mbappe
+5 holand
+6 verratti
+7 de bruine

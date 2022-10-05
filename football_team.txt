@@ -1,15 +1,12 @@
-1 messi
-2 ronaldo
-3 neymar
-4 mbappe
-5 benzema
-6 verratti
-7 de bruine
-8 donnarumma
-9 jesus
-10 phil foden
-11 tomas muller
-12 hakimi
-13 courtois
-14 son him min
-15 pepteam
+1 bekker
+2 TAA
+3 VVD
+4 gomez
+5 robertson
+6 henderson
+7 keita
+8 tiago
+9 firmono
+10 mane
+11 salah
+14 kloppteam
